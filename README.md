@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I am Shubham Sharma
+### I am an aspiring Full Stack Developer from India 🇮🇳
 
 # 💫 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh1nine96&label=Profile%20views&color=0e75b6&style=flat" alt="sh1nine96" /> </p>
