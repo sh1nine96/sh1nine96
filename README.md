@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sh1nine96&label=Profile%20views&color=0e75b6&style=flat" alt="sh1nine96" /> </p>
  🔭 I’m currently working on Spring MVC and Spring Boot projects<br>🌱 I’m currently learning FrontEnd Development<br>👯 I’m looking to collaborate on projects related to SpringBoot<br>💬 Ask me about backEnd Dev, JAVA, DSA, MySQL, Hibernate, Spring MVC, Spring Security, Spring Boot<br> 📫 How to reach me: twitter.com/Shubh1nine96 and sh1nine96@gmail.com<br>⚡ Fun fact: It’s all 0’s and 1’s
 
 
