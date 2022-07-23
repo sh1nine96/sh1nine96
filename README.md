@@ -4,7 +4,7 @@
 # 💫 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh1nine96&label=Profile%20views&color=0e75b6&style=flat" alt="sh1nine96" /> </p>
  🔭 I’m currently working on <b>Spring MVC and Spring Boot projects</b><br>🌱 I’m currently learning <b>FrontEnd Development</b><br>👯 I’m looking to collaborate on projects related to <b>SpringBoot</b><br>
- - 👨‍💻 Some of my projects are available at https://eportfolio.mygreatlearning.com/shubham-sharma12<br>
+ 👨‍💻 Some of my projects are available at https://eportfolio.mygreatlearning.com/shubham-sharma12<br>
  💬 Ask me about <b> BackEnd Development, JAVA, DSA, MySQL, Hibernate, Spring MVC, Spring Security, Spring Boot</b><br> 📫 How to reach me: <b>twitter.com/Shubh1nine96 and sh1nine96@gmail.com</b><br>⚡ Fun fact: <b>It’s all 0’s and 1’s</b>
 
 
