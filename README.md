@@ -40,7 +40,7 @@
 </div>   
 </details>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sh1nine96&bg_color=1D0038&color=901490&line=F8209A&point=f8c9f8&area=true&hide_border=true)](https://github.com/sh1nine96/github-readme-activity-graph)
+[![Shubham's github activity graph](https://activity-graph.herokuapp.com/graph?username=sh1nine96&bg_color=1D0038&color=901490&line=F8209A&point=f8c9f8&area=true&hide_border=true)](https://github.com/sh1nine96/github-readme-activity-graph)
 
 </br>
 
