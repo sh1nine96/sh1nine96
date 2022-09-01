@@ -7,7 +7,7 @@
 # 💫 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh1nine96&label=Profile%20views&color=0e75b6&style=flat" alt="sh1nine96" /> </p>
  🔭 I’m currently working on <b>FrontEnd Development</b><br>
- 🌱 I’m currently <b> learning Javascript</b><br>
+ 🌱 I’m currently learning <b> Javascript</b><br>
  👯 I’m looking to collaborate on projects related to <b>Frontend and Backend development</b> <br>
  👨‍💻 Some of my projects are available at <a href="https://eportfolio.mygreatlearning.com/shubham-sharma12"><b>My Portfolio</b></a><br>
  💬 Ask me about <b> JAVA, DSA, MySQL, Hibernate, Spring, HTML, CSS and JS</b><br>
