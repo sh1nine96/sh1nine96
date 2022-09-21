@@ -56,6 +56,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+<p align="center">
+<img src="https://github.com/sh1nine96/sh1nine96/blob/output/github-contribution-grid-snake.svg">
+</p>
+
 
 <!--
 <h2 align="center"><img width="30px" alt="icon-bar-chart" src="https://i.imgur.com/13xGnLa.png"> Github stats <img width="30px" alt="icon-bar-chart" src="https://i.imgur.com/13xGnLa.png"></h2>
