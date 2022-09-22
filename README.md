@@ -10,7 +10,7 @@
  🌱 I’m currently learning <b><i> TypeScript, React and Python</i></b><br>
  👯 I’m looking to collaborate on projects related to <b>Frontend and Backend development</b> <br>
  👨‍💻 Some of my projects are available at <a href="https://eportfolio.mygreatlearning.com/shubham-sharma12"><b>My Portfolio</b></a><br>
- 💬 Ask me about <b> JAVA, DSA, MySQL, Hibernate, Spring, Microservices, HTML, CSS, Tailwind and Javascript</b><br>
+ 💬 Ask me about <b> JAVA, DSA, MySQL, Hibernate, Spring, Microservices, HTML, CSS, Tailwind, Javascript and TypeScript</b><br>
  📫 How to reach me: <b> sh1nine96@gmail.com</b><br>
  ⚡ Fun fact: <b>All computers wait() at the same speed.... </b>
 
