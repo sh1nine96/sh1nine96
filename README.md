@@ -55,13 +55,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sh1nine96&theme=radical&no-frame=false&no-bg=false&margin-w=4) 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
 <p align="left">
 <img src="https://github.com/sh1nine96/sh1nine96/blob/output/github-contribution-grid-snake.svg">
 </p>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
