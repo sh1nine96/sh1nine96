@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Shubham Sharma
-### Aspiring Full Stack Developer from India
+### Full Stack Developer from India
 
 <!--
 <img align="right" src="https://github.com/sh1nine96/github-stats-transparent/blob/output/generated/overview.svg"  width="400"> -->
