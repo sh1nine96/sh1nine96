@@ -1,12 +1,12 @@
 ### Hi there 👋 I am Shubham Sharma
-### Full Stack Developer from India
+### Data Analyst & Full Stack Developer from India
 
 <!--
 <img align="right" src="https://github.com/sh1nine96/github-stats-transparent/blob/output/generated/overview.svg"  width="400"> -->
 
 # 💫 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh1nine96&label=Profile%20views&color=0e75b6&style=flat" alt="sh1nine96" /> </p>
- 🔭 I’m currently working on <b>Java Full Stack Development with React</b><br>
+ 🔭 I’m currently working on <b>Python and Data Analysis</b><br>
  🌱 I’m currently learning <b><i> Data Analysis</i></b><br>
  👯 I’m looking to collaborate on projects related to <b><i>Full Stack development<i/></b> <br>
  👨‍💻 Some of my projects are available at <a href="https://eportfolio.mygreatlearning.com/shubham-sharma12"><b>My Portfolio</b></a><br>
