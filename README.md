@@ -3,11 +3,11 @@
 ### Data Scientist · AI/ML · Generative AI · Agentic AI
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <a href="https://github.com/sh1nine96">
+    <img src="https://komarev.com/ghpvc/?username=sh1nine96&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat" alt="GitHub Followers"/>
+  <a href="https://github.com/sh1nine96?tab=followers">
+    <img src="https://img.shields.io/github/followers/sh1nine96?label=Followers&style=flat" alt="GitHub Followers"/>
   </a>
 </p>
 
@@ -239,12 +239,12 @@ My teaching philosophy:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sh1nine96&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1nine96&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sh1nine96&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -253,9 +253,9 @@ My teaching philosophy:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sh1nine96/sh1nine96/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sh1nine96/sh1nine96/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sh1nine96/sh1nine96/output/github-snake.svg">
   </picture>
 </p>
 
@@ -264,7 +264,7 @@ My teaching philosophy:
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sh1nine96&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </p>
 
 ---
@@ -272,13 +272,13 @@ My teaching philosophy:
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/shubham-fsd">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:sh1nine96@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/sh1nine96">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
